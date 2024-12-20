@@ -1,0 +1,41 @@
+.nav-bar ul{
+
+    list-style-type:none;
+    
+    margin:0;
+    
+    padding:0;
+    
+    display:block;
+    
+    }
+    
+    .nav-bar li
+    
+    {
+    
+    list-style-type: none;
+    
+    padding:0;
+    
+    margin:0;
+    
+    display:inline-block;
+    
+    }
+    
+    .nav-bar li a{
+    
+    padding:15px 20px;
+    
+    font-size:14px;
+    
+    color:saddlebrown;
+    
+    display: inline-block;
+    
+    outline:0;
+    
+    font-weight:700;
+    
+    }
