@@ -1,0 +1,40 @@
+<html>
+<head>
+
+</head>
+<body>
+    <h1>Registration form</h1>
+    <form>
+    First Name- <br>
+    <input type="text"  placeholder="Enter your firstname"><br>
+    
+    last Name- <br>
+    <input type="text"  placeholder="Enter your lastname" ><br>
+    
+    
+     Age- <br>
+    <input type="text"  placeholder="age" ><br>
+    
+    Address- <br>
+    <input type="text"  placeholder="Enter your addresss"> <br>
+    
+    Birth of date- <br>
+    <input type="text"  placeholder="Enter bith of date"> <br>
+    
+    
+    </form>
+    
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>
